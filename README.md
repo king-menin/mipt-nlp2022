@@ -56,6 +56,40 @@ Week 13:
 Week 14:
 * Lecture:
 
+
+## Recommended Resources
+### En
+
+* [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)
+* [Курс Лауры Каллмайер по МО для NLP](https://user.phil.hhu.de/~kallmeyer/MachineLearning/index.html)
+* [Курс Нильса Раймерса по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
+* [Курс в Оксфорде по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
+* [Курс в Стенфорде по DL для NLP](http://cs224d.stanford.edu)
+* [Reinforcment Learning for NLP](https://github.com/jiyfeng/rl4nlp)
+
+
+### На русском (и про русский, в основном)
+
+* [Курс nlp в яндексе](https://github.com/yandexdataschool/nlp_course)
+* [НКРЯ](http://ruscorpora.ru)
+* [Открытый корпус](http://opencorpora.org)
+* [Дистрибутивные семантические модели для русского языка](http://rusvectores.org/ru/)
+* [Морфология](https://tech.yandex.ru/mystem/)
+* [Синтаксис](https://habrahabr.ru/post/317564/)
+* [Томита-парсер](https://tech.yandex.ru/tomita/)
+* [mathlingvo](http://mathlingvo.ru)
+* [nlpub](https://nlpub.ru)
+* [Text Visualisation browser](http://textvis.lnu.se)
+
+
+
+## Literature
+
+* Manning, Christopher D., and Hinrich Schütze. Foundations of statistical natural language processing. Vol. 999. Cambridge: MIT press, 1999.
+* Martin, James H., and Daniel Jurafsky. "Speech and language processing." International Edition 710 (2000): 25.
+* Cohen, Shay. "Bayesian analysis in natural language processing." Synthesis Lectures on Human Language Technologies 9, no. 2 (2016): 1-274.
+* Goldberg, Yoav. "Neural Network Methods for Natural Language Processing." Synthesis Lectures on Human Language Technologies 10, no. 1 (2017): 1-309.
+
 <br>
 <br>
 based on https://github.com/PragmaticsLab/NLP-course-AMI

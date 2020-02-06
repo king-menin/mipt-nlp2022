@@ -55,3 +55,6 @@ Week 13:
 
 Week 14:
 * Lecture:
+
+
+based on https://github.com/PragmaticsLab/NLP-course-AMI

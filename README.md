@@ -3,11 +3,11 @@ NLP course, MIPT
 
 Week 1
 * Lecture: Intro to NLP
-* Practical: Text preprocessing
+* Practical: Text preprocessing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10_Aehfbxgr3fxXPgI1gM5BTU8yOy-Z4U)
 
 Week 2
 * Lecture: Word embeddings
-* Practical: word2vec, fasttext, basic text classification
+* Practical: word2vec, fasttext, basic text classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/2/2_embeddings.ipynb)
 * Quiz: URL
 
 

@@ -8,7 +8,7 @@ Week 1
 Week 2
 * Lecture: [Word embeddings](lectures/L2_word_vectors.pdf)
 * Practical: word2vec, fasttext, basic text classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/2/2_embeddings.ipynb)
-* Quiz: URL
+* Quiz: https://forms.gle/KLJkcgksDNLc85Dv6 Deadline: 19.02.2020 23:59
 
 
 Week 3

@@ -12,8 +12,9 @@ Week 2
 
 
 Week 3
-* Lecture & Practical: CNN for text classification
-* Quiz: URL
+* [Lecture](https://github.com/king-menin/mipt-nlp2020/blob/master/lectures/L3_text-classification.pdf) & [Practical](https://github.com/king-menin/mipt-nlp2020/blob/master/seminars/sem3_classification.ipynb): CNN for text classification
+* Practical [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-AMI/blob/dev/seminars/sem3_classification.ipynb)
+* Quiz: https://forms.gle/5rXwSds7AEyMyuii6 Deadline: 22/02, 23:59
 * Homework 1 
 
 Week 4: 

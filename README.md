@@ -12,16 +12,16 @@ Week 2
 
 
 Week 3
-* [Lecture](https://github.com/king-menin/mipt-nlp2020/blob/master/lectures/L3_text-classification.pdf) & [Practical](https://github.com/king-menin/mipt-nlp2020/blob/master/seminars/sem3_classification.ipynb): CNN for text classification
+* [Lecture](lectures/L3_text-classification.pdf) & [Practical](https://github.com/king-menin/mipt-nlp2020/blob/master/seminars/sem3_classification.ipynb): CNN for text classification
 * Practical [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-AMI/blob/dev/seminars/sem3_classification.ipynb)
 * Quiz: https://forms.gle/5rXwSds7AEyMyuii6 Deadline: 22.02.2020, 23:59
-* [Homework 1](https://github.com/king-menin/mipt-nlp2020/blob/master/HWs/hw1.ipynb) *deadline*: 9 марта 2020, 23:30
+* [Homework 1](HWs/hw1.ipynb) *deadline*: 9 марта 2020, 23:30
 
 Week 4: 
-* Lecture & Practical: Language modelling
-
+* [Lecture](lectures/L4_LM.pdf) & [Practical](seminars/sem4_language_models/sem4_language_models.ipynb): Language modelling
+https://github.com/king-menin/mipt-nlp2020/blob/master/seminars/sem4_language_models/sem4_language_models.ipynb
 Week 5:
-* Lecture & Practical: Syntax parsing
+* [Lecture](lectures/L5_syntax.pdf) & Practical: Syntax parsing
 * Quiz: URL
 
 Week 6

@@ -21,7 +21,7 @@ Week 4:
 * [Lecture](lectures/L4_LM.pdf) & [Practical](seminars/sem4_language_models/sem4_language_models.ipynb): Language modelling
 https://github.com/king-menin/mipt-nlp2020/blob/master/seminars/sem4_language_models/sem4_language_models.ipynb
 Week 5:
-* [Lecture](lectures/L5_syntax.pdf) & Practical: Syntax parsing
+* [Lecture](lectures/L5_syntax.pdf) & [Practical](seminars/sem5_syntax/sem5_syntax.ipynb): Syntax parsing
 * Quiz: URL
 
 Week 6

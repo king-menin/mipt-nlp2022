@@ -29,8 +29,8 @@ Week 6
 * Seminar: Seq2seq [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/sem6_seq2seq/6_seq2seq.ipynb)
 
 Week 7:
-* Lecture: Transfer learning in NLP, part 1
-* Project p.1
+* [Lecture](lectures/L7.Bertology.pdf): Transfer learning in NLP
+* Homework 2
 
 Week 8:
 * Lecture: Transfer learning in NLP, part 2

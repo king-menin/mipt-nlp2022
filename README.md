@@ -15,8 +15,8 @@ final_mark=sum_i (max_score(HW_i)) / count(HWs) * 10, i==1..4
 
 #### Week 1
 
-* Lecture: Intro to NLP
-* Practical: Text preprocessing
+* Lecture: [Intro to NLP](lectures/L1.Intro2NLP.pdf)
+* Practical: [Text preprocessing](sem1/sem1_basic_text_processing.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2021/blob/master/seminars/sem1/sem1_basic_text_processing.ipynb)
 
 #### Week 2
 

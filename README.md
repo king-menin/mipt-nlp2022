@@ -47,7 +47,7 @@ Task description, methods (Markov Model, RNNs), evaluation (perplexity), Sequenc
 * Lecture: Machine translation, Seq2seq
 
 Basics: Encoder-Decoder framework, Training, Simple Models, Inference (e.g., beam search).  Eval (bleu). Parallel corpus, alignment techniques
-* Practical: Seq2seq Open In Colab
+* Practical: Seq2seq
 
 #### Week 6
 

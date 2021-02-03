@@ -123,6 +123,3 @@ TODO :-)
 * Cohen, Shay. "Bayesian analysis in natural language processing." Synthesis Lectures on Human Language Technologies 9, no. 2 (2016): 1-274.
 * Goldberg, Yoav. "Neural Network Methods for Natural Language Processing." Synthesis Lectures on Human Language Technologies 10, no. 1 (2017): 1-309.
 
-<br>
-<br>
-based on https://github.com/PragmaticsLab/NLP-course-AMI

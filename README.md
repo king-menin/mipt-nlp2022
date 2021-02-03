@@ -8,7 +8,7 @@ Telegram chat [mipt-nlp2021](https://t.me/joinchat/HlYsCUgkZ9sTL0mJ)
 
 ## Mark
 ```math
-final_mark=sum_i (max_score(HW_i)) / count(HWs)
+final_mark=sum_i (max_score(HW_i)) / count(HWs) * 10, i==0..4
 ```
 
 ## Lecture schedule

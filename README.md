@@ -1,67 +1,98 @@
-# mipt-nlp2020
+# mipt-nlp2021
 NLP course, MIPT
 
-Week 1
-* Lecture: [Intro to NLP](lectures/L1_intro.pdf)
-* Practical: Text preprocessing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10_Aehfbxgr3fxXPgI1gM5BTU8yOy-Z4U)
+### Course instructors
+Anton Emelianov (login-const@mail.ru, @king_menin), Alena Fenogenova (alenush93@gmail.com)
 
-Week 2
-* Lecture: [Word embeddings](lectures/L2_word_vectors.pdf)
-* Practical: word2vec, fasttext, basic text classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/2/2_embeddings.ipynb)
-* Quiz: [URL](https://forms.gle/KLJkcgksDNLc85Dv6) Deadline: 19.02.2020 23:59
+Telegram chat [mipt-nlp2021](https://t.me/joinchat/HlYsCUgkZ9sTL0mJ)
 
+## Mark
+```math
+final_mark=sum_i (max_score(HW_i)) / count(HWs)
+```
 
-Week 3
-* [Lecture](lectures/L3_text-classification.pdf) & [Practical](https://github.com/king-menin/mipt-nlp2020/blob/master/seminars/sem3_classification.ipynb): CNN for text classification
-* Practical [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-AMI/blob/dev/seminars/sem3_classification.ipynb)
-* Quiz: [URL](https://forms.gle/5rXwSds7AEyMyuii6) Deadline: 22.02.2020, 23:59
-* [Homework 1](HWs/hw1.ipynb) *deadline*: 9 марта 2020, 23:30
+## Lecture schedule
 
-Week 4: 
-* [Lecture](lectures/L4_LM.pdf) & [Practical](seminars/sem4_language_models/sem4_language_models.ipynb): Language modelling
+#### Week 1
 
-Week 5:
-* [Lecture](lectures/L5_syntax.pdf) & [Practical](seminars/sem5_syntax/sem5_syntax.ipynb): Syntax parsing
-* Quiz: [URL](https://forms.gle/nNv9dos3WFpKne1S8) Deadline: 07.03.2020, 23:59
+* Lecture: Intro to NLP
+* Practical: Text preprocessing
 
-Week 6
-* Lecture: Machine translation
-* Seminar: Seq2seq [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/sem6_seq2seq/6_seq2seq.ipynb)
+#### Week 2
 
-Week 7:
-* [Lecture](lectures/L7.Bertology.pdf): Transfer learning in NLP.
-* [Practical](seminars/sem7_transformers/sem7_transformers.ipynb): Transformers.
-* Homework 2
+* Lecture: Word embeddings
 
-Week 8:
-* Lecture: Transfer learning in NLP, part 2
-* Quiz: URL
-Week 9
+Distributional semantics. Count-based (pre-neural) methods. Word2Vec: learn vectors. GloVe: count, then learn. N-gram (collocations)
+RusVectores. t-SNE.
+* Practical: word2vec, fasttext, basic text classification
+* HW1
+
+#### Week 3
+
+* Lecture: RNN + CNN, Text classification
+
+Neural Language Models: Recurrent Models, Convolutional Models. Text classification (architectures)
+* Practical: LSTM, CNN
+
+#### Week 4
+
+* Lecture: Language modelling
+
+Task description, methods (Markov Model, RNNs), evaluation (perplexity), Sequence Labelling (NER, pos-tagging, chunking etc.) N-gram language models, HMM, MEMM, CRF
+* Practical: NER
+* HW2
+
+#### Week 5
+
+* Lecture: Machine translation, Seq2seq
+
+Basics: Encoder-Decoder framework, Training, Simple Models, Inference (e.g., beam search).  Eval (bleu). Parallel corpus, alignment techniques
+* Practical: Seq2seq Open In Colab
+
+#### Week 6
+
+* Lecture: Language modeling 2. Attention. Transformers
+
+Bahdanau Model. Attention: general, score functions, models. Transformer: self-attention, masked self-attention, multi-head attention; BERT, Subword Segmentation (BPE).
+* HW3
+
+#### Week 7
+
+* Lecture: Transfer learning in NLP
+
+ELMO, ULMFIT и Berthology (GPT-s, roberta…., t5, mt5)
+* Practical: transformers models for classification task
+
+#### Week 8
+
+* Lecture & Practical: Syntax parsing
+
+Syntax and Tagging
+
+#### Week 9
+
 * Lecture: Question answering
-* Homework 3
 
-Week 10
+Squads (one-hop, multi-hop), architectures, retrieval and search, triplets wikidata, tf-idf, chat-bots
+* HW4
+
+#### Week 10
+
 * Lecture: Summarization and simplification
-* Quiz: URL
 
-Week 11
-* Lecture: Summarization and simplification, p. 2 + presentations
+#### Week 11
 
-Week 12:
-* Lecture: Text normalisation + presentations
-* Homework 4
-* Project p.2 
+Lecture: Real cases and trends.
 
-Week 13: 
-* Lecture:
+Few-shot, Zero-shot, Distillation
 
-Week 14:
-* Lecture:
-
+#### Week 12
+TODO :-)
 
 ## Recommended Resources
 ### En
 
+* [ruder.io](https://ruder.io/)
 * [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)
 * [Курс Лауры Каллмайер по МО для NLP](https://user.phil.hhu.de/~kallmeyer/MachineLearning/index.html)
 * [Курс Нильса Раймерса по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)

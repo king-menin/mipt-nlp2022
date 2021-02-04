@@ -6,6 +6,8 @@ Anton Emelianov (login-const@mail.ru, @king_menin), Alena Fenogenova (alenush93@
 
 Telegram chat [mipt-nlp2021](https://t.me/joinchat/HlYsCUgkZ9sTL0mJ)
 
+Videos [here](https://drive.google.com/drive/folders/1YbyT2wA4LEcaMitwuTr7fuYcpWeAWzIW?usp=sharing)
+
 ## Mark
 ```math
 final_mark=sum_i (max_score(HW_i)) / count(HWs) * 10, i==1..4

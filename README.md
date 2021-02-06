@@ -6,6 +6,8 @@ Anton Emelianov (login-const@mail.ru, @king_menin), Alena Fenogenova (alenush93@
 
 Telegram chat [mipt-nlp2021](https://t.me/joinchat/HlYsCUgkZ9sTL0mJ)
 
+Videos [here](https://drive.google.com/drive/folders/1YbyT2wA4LEcaMitwuTr7fuYcpWeAWzIW?usp=sharing)
+
 ## Mark
 ```math
 final_mark=sum_i (max_score(HW_i)) / count(HWs) * 10, i==1..4
@@ -15,8 +17,9 @@ final_mark=sum_i (max_score(HW_i)) / count(HWs) * 10, i==1..4
 
 #### Week 1
 
-* Lecture: Intro to NLP
-* Practical: Text preprocessing
+* Lecture: [Intro to NLP](lectures/L1.Intro2NLP.pdf)
+* Practical: [Text preprocessing](seminars/sem1/sem1_basic_text_processing.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2021/blob/master/seminars/sem1/sem1_basic_text_processing.ipynb)
+* [Video](https://drive.google.com/file/d/1DoD4Yaw-oFBSjK4awL0F_pXbdOMlfkwI/view?usp=sharing)
 
 #### Week 2
 

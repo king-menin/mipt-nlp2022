@@ -23,7 +23,7 @@ final_mark=sum_i (max_score(HW_i)) / count(HWs) * 10, i==1..4
 
 #### Week 2
 
-* Lecture: Word embeddings
+* Lecture: [Word embeddings](lectures/L2.WordEmbeddings.pdf)
 
 Distributional semantics. Count-based (pre-neural) methods. Word2Vec: learn vectors. GloVe: count, then learn. N-gram (collocations)
 RusVectores. t-SNE.
@@ -32,10 +32,10 @@ RusVectores. t-SNE.
 
 #### Week 3
 
-* Lecture: RNN + CNN, Text classification
+* Lecture: [RNN + CNN, Text classification](lectures/L3.TextClassification_BasicNNs_at_NLP.pdf)
 
 Neural Language Models: Recurrent Models, Convolutional Models. Text classification (architectures)
-* Practical: LSTM, CNN
+* Practical: [Classification with LSTM, CNN](seminars/sem3/sem3_classification.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2021/blob/master/seminars/sem3/sem3_classification.ipynb)
 
 #### Week 4
 

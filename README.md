@@ -36,6 +36,7 @@ RusVectores. t-SNE.
 
 Neural Language Models: Recurrent Models, Convolutional Models. Text classification (architectures)
 * Practical: [Classification with LSTM, CNN](seminars/sem3/sem3_classification.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2021/blob/master/seminars/sem3/sem3_classification.ipynb)
+* [Video](https://drive.google.com/file/d/1i6X3Hv7bzC8-ZHKeVvuu_gabaYrfMygM/view?usp=sharing)
 
 #### Week 4
 

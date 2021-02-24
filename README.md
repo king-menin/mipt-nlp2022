@@ -28,7 +28,7 @@ final_mark=sum_i (max_score(HW_i)) / count(HWs) * 10, i==1..4
 Distributional semantics. Count-based (pre-neural) methods. Word2Vec: learn vectors. GloVe: count, then learn. N-gram (collocations)
 RusVectores. t-SNE.
 * Practical: [word2vec, fasttext](seminars/sem2/2_embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2021/blob/master/seminars/sem2/2_embeddings.ipynb)
-* [HW1](HWs/hw1.ipynb)
+* [HW1](HWs/hw1.ipynb) If you have problems with datasets you also can obtain this [here](https://drive.google.com/drive/folders/1hlcNE2X10SRucppU0-hRfrGwjYFMCWdL?usp=sharing)
 * [Video](https://drive.google.com/file/d/1lD5k1b8LAJ8wSM45Z1TDYstXqqwYjb9L/view?usp=sharing)
 
 #### Week 3

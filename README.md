@@ -45,7 +45,7 @@ Neural Language Models: Recurrent Models, Convolutional Models. Text classificat
 
 Task description, methods (Markov Model, RNNs), evaluation (perplexity), Sequence Labelling (NER, pos-tagging, chunking etc.) N-gram language models, HMM, MEMM, CRF
 * Practical: [NER](seminars/sem4/sem4_ner.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2021/blob/master/seminars/sem4/sem4_ner.ipynb)
-* HW2
+* [HW2](HWs/hw2.ipynb), [https://www.kaggle.com/c/mipt-nlp-hw2-2021/](https://www.kaggle.com/c/mipt-nlp-hw2-2021/)
 * [Video](https://drive.google.com/file/d/1XjpVthq-U35YhDu94qxKN4JcxbID1kqy/view?usp=sharing)
 
 #### Week 5

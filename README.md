@@ -50,24 +50,26 @@ Task description, methods (Markov Model, RNNs), evaluation (perplexity), Sequenc
 
 #### Week 5
 
-* Lecture: Machine translation, Seq2seq
+* Lecture: [Machine translation, Seq2seq, Attention, Transformers](lectures/L5.MT_Attention_Transformers.pdf)
 
-Basics: Encoder-Decoder framework, Training, Simple Models, Inference (e.g., beam search).  Eval (bleu). Parallel corpus, alignment techniques
-* Practical: Seq2seq
+Basics: Encoder-Decoder framework, Inference (e.g., beam search),  Eval (bleu).
+Attention: general, score functions, models. Bahdanau and Luong models. 
+Transformer: self-attention, masked self-attention, multi-head attention.
 
 #### Week 6
 
-* Lecture: Language modeling 2. Attention. Transformers
+* Lecture: Transfer learning in NLP
 
-Bahdanau Model. Attention: general, score functions, models. Transformer: self-attention, masked self-attention, multi-head attention; BERT, Subword Segmentation (BPE).
+Bertology (BERT, GPT-s, roberta…., t5, etc.), Subword Segmentation (BPE), Evaluation of big LMs.
+* Practical: transformers models for classification task
 * HW3
+
 
 #### Week 7
 
-* Lecture: Transfer learning in NLP
+Lecture & Practical: How to train big models?
 
-ELMO, ULMFIT и Berthology (GPT-s, roberta…., t5, mt5)
-* Practical: transformers models for classification task
+Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parallelism.
 
 #### Week 8
 

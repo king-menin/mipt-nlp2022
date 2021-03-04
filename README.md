@@ -62,7 +62,6 @@ Transformer: self-attention, masked self-attention, multi-head attention.
 
 Bertology (BERT, GPT-s, roberta…., t5, etc.), Subword Segmentation (BPE), Evaluation of big LMs.
 * Practical: transformers models for classification task
-* HW3
 
 
 #### Week 7
@@ -70,6 +69,8 @@ Bertology (BERT, GPT-s, roberta…., t5, etc.), Subword Segmentation (BPE), Eval
 Lecture & Practical: How to train big models?
 
 Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parallelism.
+
+* HW3
 
 #### Week 8
 

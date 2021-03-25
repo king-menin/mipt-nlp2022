@@ -79,16 +79,16 @@ Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parall
 
 #### Week 8
 
-* Lecture & Practical: Syntax parsing
-
-Syntax and Tagging
+* Lecture: [Syntax parsing](lectures/L8.syntax_mipt.pdf)
+* Practical: [Syntax](seminars/sem8/seminar_syntax_mipt.ipynb)
+* [Video]()
 
 #### Week 9
 
-* Lecture: Question answering
+* Lecture & Practical:: Question answering
 
-Squads (one-hop, multi-hop), architectures, retrieval and search, triplets wikidata, tf-idf, chat-bots
-* HW4
+Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots
+
 
 #### Week 10
 

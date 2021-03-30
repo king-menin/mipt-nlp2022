@@ -81,7 +81,7 @@ Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parall
 
 * Lecture: [Syntax parsing](lectures/L8.syntax_mipt.pdf)
 * Practical: [Syntax](seminars/sem8/seminar_syntax_mipt.ipynb)
-* [Video]()
+* [Video](https://drive.google.com/file/d/1a_79qtfLNaUTTJJl7SkiGzlxo7hGXTMH/view?usp=sharing)
 
 #### Week 9
 

@@ -85,20 +85,22 @@ Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parall
 
 #### Week 9
 
-* Lecture & Practical:: Question answering
+* Lecture: [Question answering](lectures/L9.QA.pdf)
+* Practical: [seminar QA](seminars/sem9/seminar9chatbots.ipynb), [seminar chatbots](seminars/sem9/seminar9qa.ipynb)
+* [Video](https://drive.google.com/file/d/1Ilkjp3sjz3jow2V3M8j_eL4pW6wz-R0D/view?usp=sharing)
 
 Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots
 
 
 #### Week 10
 
-* Lecture: Summarization and simplification
+* Lecture: Summarization, simplification, paraphrasing.
+* Practical: summarization
+
 
 #### Week 11
 
 Lecture: Real cases and trends.
-
-Few-shot, Zero-shot, Distillation
 
 #### Week 12
 TODO :-)
@@ -127,7 +129,6 @@ TODO :-)
 * [mathlingvo](http://mathlingvo.ru)
 * [nlpub](https://nlpub.ru)
 * [Text Visualisation browser](http://textvis.lnu.se)
-
 
 
 ## Literature

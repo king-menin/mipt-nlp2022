@@ -94,8 +94,8 @@ Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots
 
 #### Week 10
 
-* Lecture: Summarization, simplification, paraphrasing.
-* Practical: summarization
+* Lecture: [Summarization, simplification, paraphrasing](lectures/L10.Summarization.pdf)
+* Practical: [summarization seminar](seminars/sem10/Summarization.ipynb)
 
 
 #### Week 11

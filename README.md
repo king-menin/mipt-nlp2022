@@ -65,7 +65,7 @@ Transformer: self-attention, masked self-attention, multi-head attention.
 Bertology (BERT, GPT-s, t5, etc.), Subword Segmentation (BPE), Evaluation of big LMs.
 * Practical: [transformers models for classification task](seminars/sem6/TransferLearningSeminar.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2021/blob/master/seminars/sem6/TransferLearningSeminar.ipynb)
 * Practical: [Transfer learning](seminars/sem6)
-* Video: [Part1](https://drive.google.com/file/d/1A3rpB4YuBoSF3vZ6BagZXyLP5jIhlkct/view?usp=sharing), [Part2](https://drive.google.com/file/d/1Nzej1VWkx4JqJeNN1PX7i9mvUh_P7Dpk/view?usp=sharing)
+* Video: [Part1](https://drive.google.com/file/d/1QjoIIl87lnhHBWmDc5sJUmYmaVEpLOjy/view?usp=sharing), [Part2](https://drive.google.com/file/d/1Nzej1VWkx4JqJeNN1PX7i9mvUh_P7Dpk/view?usp=sharing)
 
 #### Week 7
 

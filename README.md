@@ -100,10 +100,10 @@ Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots
 
 #### Week 11
 
-Lecture: Real cases and trends.
+* Lecture: [Knowledge Distillation in NLP](lectures/L11.Knowledge_Distillation_in_NLP.pdf)
+* [Video](https://drive.google.com/file/d/1rPyzjUSTtpjO8PyO7mR4QnjoA1cAaePP/view?usp=sharing)
 
-#### Week 12
-TODO :-)
+
 
 ## Recommended Resources
 ### En

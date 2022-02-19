@@ -27,7 +27,7 @@ Distributional semantics. Count-based (pre-neural) methods. Word2Vec: learn vect
 RusVectores. t-SNE.
 * Practical: word2vec, fasttext
 * [HW1](HWs/hw1.ipynb)
-* Video
+* Video: [lecture](https://drive.google.com/file/d/1LQEVudRMccfiIj5igVeNg2qqg9EwRJ7b/view?usp=sharing), [seminar](https://drive.google.com/file/d/1yoXQXRmEvhBUl0iPJgVXFYv9KwyLAzUA/view?usp=sharing)
 
 #### Week 3
 

@@ -26,7 +26,7 @@ final_mark=sum_i (max_score(HW_i)) / count(HWs) * 10, i==1..3
 Distributional semantics. Count-based (pre-neural) methods. Word2Vec: learn vectors. GloVe: count, then learn. N-gram (collocations)
 RusVectores. t-SNE.
 * Practical: word2vec, fasttext
-* HW1
+* [HW1](HWs/hw1.ipynb)
 * Video
 
 #### Week 3

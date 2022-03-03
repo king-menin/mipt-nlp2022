@@ -39,10 +39,10 @@ Neural Language Models: Recurrent Models, Convolutional Models. Text classificat
 
 #### Week 4
 
-* Lecture: Language modelling and NER
+* Lecture: [Language modelling and NER](lectures/L4.LMs_Intro_and_NER.pdf)
 
 Task description, methods (Markov Model, RNNs), evaluation (perplexity), Sequence Labelling (NER, pos-tagging, chunking etc.) N-gram language models, HMM, MEMM, CRF
-* Practical: NER
+* Practical: [NER](seminars/sem4/sem4_ner.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2022/blob/master/seminars/sem4/sem4_ner.ipynb)
 * HW2
 * Video
 

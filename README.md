@@ -21,7 +21,7 @@ final_mark=sum_i (max_score(HW_i)) / count(HWs) * 10, i==1..3
 
 #### Week 2
 
-* Lecture: Word embeddings
+* Lecture: [Word embeddings](lectures/L2.WordEmbeddings.pdf)
 
 Distributional semantics. Count-based (pre-neural) methods. Word2Vec: learn vectors. GloVe: count, then learn. N-gram (collocations)
 RusVectores. t-SNE.
@@ -31,11 +31,11 @@ RusVectores. t-SNE.
 
 #### Week 3
 
-* Lecture: RNN + CNN, Text classification
+* Lecture: [RNN + CNN, Text classification](lectures/L3.TextClassification_BasicNNs_at_NLP.pdf)
 
 Neural Language Models: Recurrent Models, Convolutional Models. Text classification (architectures)
 * Practical: [Classification with LSTM, CNN](seminars/sem3/sem3_classification.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2021/blob/master/seminars/sem3/sem3_classification.ipynb)
-* Video
+* [Video](https://drive.google.com/file/d/1uqV_uhPUjhqh5v8zVFBPsem4W2oDErGn/view?usp=sharing)
 
 #### Week 4
 
@@ -44,7 +44,7 @@ Neural Language Models: Recurrent Models, Convolutional Models. Text classificat
 Task description, methods (Markov Model, RNNs), evaluation (perplexity), Sequence Labelling (NER, pos-tagging, chunking etc.) N-gram language models, HMM, MEMM, CRF
 * Practical: [NER](seminars/sem4/sem4_ner.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2022/blob/master/seminars/sem4/sem4_ner.ipynb)
 * HW2
-* Video
+* [Video](https://drive.google.com/file/d/1ECVWmy7zMs9QPX-nnZ7SASvopBlFAIM6/view?usp=sharing)
 
 #### Week 5
 

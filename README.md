@@ -53,7 +53,7 @@ Attention: general, score functions, models. Bahdanau and Luong models.
 Transformer: self-attention, masked self-attention, multi-head attention.
 * [HW2](HWs/hw2.ipynb)
 
-* [Video](https://drive.google.com/file/d/1A3rpB4YuBoSF3vZ6BagZXyLP5jIhlkct/view?usp=sharing)
+* [Video](https://drive.google.com/file/d/1P0UQX50ZacNnRAhotgjGhZt6L6D3L4Zo/view?usp=sharing)
 
 #### Week 6
 

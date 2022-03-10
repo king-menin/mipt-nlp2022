@@ -111,7 +111,7 @@ Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots
 * [Курс Лауры Каллмайер по МО для NLP](https://user.phil.hhu.de/~kallmeyer/MachineLearning/index.html)
 * [Курс Нильса Раймерса по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
 * [Курс в Оксфорде по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
-* [Курс в Стенфорде по DL для NLP](http://cs224d.stanford.edu)
+* [Курс в Стенфорде по DL для NLP](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/)
 * [Reinforcment Learning for NLP](https://github.com/jiyfeng/rl4nlp)
 
 

@@ -47,14 +47,14 @@ Task description, methods (Markov Model, RNNs), evaluation (perplexity), Sequenc
 * [Video](https://drive.google.com/file/d/1ECVWmy7zMs9QPX-nnZ7SASvopBlFAIM6/view?usp=sharing)
 
 #### Week 5
-
-* Lecture: Machine translation, Seq2seq, Attention, Transformers
+* Lecture: [Machine translation, Seq2seq, Attention, Transformers](lectures/L5.MTAttentionTransformers.pptx.pdf)
 
 Basics: Encoder-Decoder framework, Inference (e.g., beam search),  Eval (bleu).
 Attention: general, score functions, models. Bahdanau and Luong models. 
 Transformer: self-attention, masked self-attention, multi-head attention.
+* [HW2](HWs/hw2.ipynb)
 
-* Video
+* [Video](https://drive.google.com/file/d/1P0UQX50ZacNnRAhotgjGhZt6L6D3L4Zo/view?usp=sharing)
 
 #### Week 6
 
@@ -111,7 +111,7 @@ Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots
 * [Курс Лауры Каллмайер по МО для NLP](https://user.phil.hhu.de/~kallmeyer/MachineLearning/index.html)
 * [Курс Нильса Раймерса по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
 * [Курс в Оксфорде по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
-* [Курс в Стенфорде по DL для NLP](http://cs224d.stanford.edu)
+* [Курс в Стенфорде по DL для NLP](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/)
 * [Reinforcment Learning for NLP](https://github.com/jiyfeng/rl4nlp)
 
 

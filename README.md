@@ -46,15 +46,14 @@ Task description, methods (Markov Model, RNNs), evaluation (perplexity), Sequenc
 * HW2
 * [Video](https://drive.google.com/file/d/1ECVWmy7zMs9QPX-nnZ7SASvopBlFAIM6/view?usp=sharing)
 
-#### Week 5
-
-* Lecture: Machine translation, Seq2seq, Attention, Transformers
+* Lecture: [Machine translation, Seq2seq, Attention, Transformers](lectures/L5.MT_Attention_Transformers.pdf)
 
 Basics: Encoder-Decoder framework, Inference (e.g., beam search),  Eval (bleu).
 Attention: general, score functions, models. Bahdanau and Luong models. 
 Transformer: self-attention, masked self-attention, multi-head attention.
+* [HW2](HWs/hw2.ipynb)
 
-* Video
+* [Video](https://drive.google.com/file/d/1A3rpB4YuBoSF3vZ6BagZXyLP5jIhlkct/view?usp=sharing)
 
 #### Week 6
 

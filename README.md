@@ -46,7 +46,8 @@ Task description, methods (Markov Model, RNNs), evaluation (perplexity), Sequenc
 * HW2
 * [Video](https://drive.google.com/file/d/1ECVWmy7zMs9QPX-nnZ7SASvopBlFAIM6/view?usp=sharing)
 
-* Lecture: [Machine translation, Seq2seq, Attention, Transformers](lectures/L5.MT_Attention_Transformers.pdf)
+#### Week 5
+* Lecture: [Machine translation, Seq2seq, Attention, Transformers](lectures/L5.MTAttentionTransformers.pptx.pdf)
 
 Basics: Encoder-Decoder framework, Inference (e.g., beam search),  Eval (bleu).
 Attention: general, score functions, models. Bahdanau and Luong models. 

@@ -51,7 +51,7 @@ Task description, methods (Markov Model, RNNs), evaluation (perplexity), Sequenc
 Basics: Encoder-Decoder framework, Inference (e.g., beam search),  Eval (bleu).
 Attention: general, score functions, models. Bahdanau and Luong models. 
 Transformer: self-attention, masked self-attention, multi-head attention.
-* [HW2](HWs/hw2.ipynb)
+* [HW2](HWs/hw2.ipynb), https://www.kaggle.com/c/mipt-nlp-hw2-2022
 
 * [Video](https://drive.google.com/file/d/1P0UQX50ZacNnRAhotgjGhZt6L6D3L4Zo/view?usp=sharing)
 

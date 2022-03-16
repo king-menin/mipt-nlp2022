@@ -57,11 +57,11 @@ Transformer: self-attention, masked self-attention, multi-head attention.
 
 #### Week 6
 
-* Lecture: Transfer learning in NLP
+* Lecture: [Transfer learning in NLP](lectures/L6.TransferLearning.pdf)
 
 Bertology (BERT, GPT-s, t5, etc.), Subword Segmentation (BPE), Evaluation of big LMs.
-* Practical: transformers models for classification task
-* Practical: Transfer learning
+* Practical: [transformers models for classification task](seminars/sem6/TransferLearningSeminar.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2021/blob/master/seminars/sem6/TransferLearningSeminar.ipynb)
+* Practical: [Transfer learning](seminars/sem6)
 * Video: Part1
 
 #### Week 7

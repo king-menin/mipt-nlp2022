@@ -70,7 +70,7 @@ Lecture & Practical: How to train big models? [Part1. Distributed training](lect
 Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parallelism.
 
 * Practical: [DDP example](seminars/sem7)
-* Video
+* [Video](https://drive.google.com/file/d/1dFy_EI6OcaqL7VydX7PborZt8-58I2aw/view?usp=sharing)
 * HW3
 
 #### Week 8

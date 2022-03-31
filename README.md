@@ -65,11 +65,11 @@ Bertology (BERT, GPT-s, t5, etc.), Subword Segmentation (BPE), Evaluation of big
 
 #### Week 7
 
-Lecture & Practical: How to train big models? Part1. Distributed training, Part2. RuGPT3 Training
+Lecture & Practical: How to train big models? [Part1. Distributed training](lectures/L7.DistributedTraining.pdf)
 
 Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parallelism.
 
-* Practical: DDP example
+* Practical: [DDP example](seminars/sem7)
 * Video
 * HW3
 

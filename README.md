@@ -60,12 +60,12 @@ Transformer: self-attention, masked self-attention, multi-head attention.
 * Lecture: [Transfer learning in NLP](lectures/L6.TransferLearning.pdf)
 
 Bertology (BERT, GPT-s, t5, etc.), Subword Segmentation (BPE), Evaluation of big LMs.
-* Practical: [transformers models for classification task](seminars/sem6/TransferLearningSeminar.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2021/blob/master/seminars/sem6/TransferLearningSeminar.ipynb)
+* Practical: [transformers models for classification task](seminars/sem6/TransferLearningSeminar.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2022/blob/master/seminars/sem6/TransferLearningSeminar.ipynb)
 * [Video](https://drive.google.com/file/d/15YWJGC-8FzGBtfO4SkWOvPG5BEgkuZRO/view?usp=sharing)
 
 #### Week 7
 
-Lecture & Practical: How to train big models? [Part1. Distributed training](lectures/L7.DistributedTraining.pdf)
+Lecture & Practical: How to train big models? [Distributed training](lectures/L7.DistributedTraining.pdf)
 
 Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parallelism.
 
@@ -75,14 +75,8 @@ Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parall
 
 #### Week 8
 
-* Lecture: Syntax parsing
-* Practical: Syntax
-* Video
-
-#### Week 9
-
-* Lecture: Question answering
-* Practical: [seminar QA, seminar chat-bots
+* Lecture: [Question answering](lectures/L8.QuestionAnswering.pdf)
+* Practical: [seminar QA](seminars/sem8/qa.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2022/blob/master/seminars/sem8/qa.ipynb), [seminar chat-bots](seminars/sem8/chatbots.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2022/blob/master/seminars/sem8/chatbots.ipynb)
 * Video
 
 Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots

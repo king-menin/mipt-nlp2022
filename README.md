@@ -77,7 +77,7 @@ Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parall
 
 * Lecture: [Question answering](lectures/L8.QuestionAnswering.pdf)
 * Practical: [seminar QA](seminars/sem8/qa.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2022/blob/master/seminars/sem8/qa.ipynb), [seminar chat-bots](seminars/sem8/chatbots.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/king-menin/mipt-nlp2022/blob/master/seminars/sem8/chatbots.ipynb)
-* Video
+* [Video](https://drive.google.com/file/d/1t4LtMNbbckA0AH5YXTbrSepflt0VVyPy/view?usp=sharing)
 
 Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots
 

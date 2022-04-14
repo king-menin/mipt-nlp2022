@@ -71,7 +71,6 @@ Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parall
 
 * Practical: [DDP example](seminars/sem7)
 * [Video](https://drive.google.com/file/d/1dFy_EI6OcaqL7VydX7PborZt8-58I2aw/view?usp=sharing)
-* HW3
 
 #### Week 8
 
@@ -82,10 +81,11 @@ Training Multi-Billion Parameter Language Models. Model Parallelism. Data Parall
 Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots
 
 
-#### Week 10
+#### Week 9
 
-* Lecture: Summarization, simplification, paraphrasing
+* Lecture: [Summarization, simplification, paraphrasing](lectures/L9.Summarization.pdf)
 * Practical: summarization seminar
+* [HW3](HWs/hw3.ipynb), https://www.kaggle.com/c/mipt-nlp-hw3-2022
 * Video
 
 #### Week 11

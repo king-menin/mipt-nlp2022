@@ -6,6 +6,8 @@ Anton Emelianov (login-const@mail.ru, @king_menin), Albina Akhmetgareeva (albina
 
 Videos [here](https://drive.google.com/drive/folders/1CDQsHx53en5punmtB5I94A4NI2pJY9Wm?usp=sharing)
 
+Exam questions [here](https://docs.google.com/document/d/1NdD20EMSAOFTXSD6uEC55k0k6_MOofJHf0xdQ7-2DKs/edit?usp=sharing)
+
 ## Mark
 ```math
 final_mark=sum_i (max_score(HW_i)) / count(HWs) * 10, i==1..3

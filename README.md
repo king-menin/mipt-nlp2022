@@ -86,7 +86,7 @@ Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots
 * Lecture: [Summarization, simplification, paraphrasing](lectures/L9.Summarization.pdf)
 * Practical: summarization seminar
 * [HW3](HWs/hw3.ipynb), https://www.kaggle.com/c/mipt-nlp-hw3-2022
-* Video
+* [Video](https://drive.google.com/file/d/1zDcyheTST_l7hSi8-xzOVsjAtQ-upfxe/view?usp=sharing)
 
 #### Week 11
 

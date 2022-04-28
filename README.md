@@ -90,10 +90,10 @@ Squads (one-hop, multi-hop), architectures, retrieval and search, chat-bots
 * [HW3](HWs/hw3.ipynb), https://www.kaggle.com/c/mipt-nlp-hw3-2022
 * [Video](https://drive.google.com/file/d/1zDcyheTST_l7hSi8-xzOVsjAtQ-upfxe/view?usp=sharing)
 
-#### Week 11
+#### Week 10
 
-* Lecture: Knowledge Distillation in NLP
-* Video
+* Lecture: [Multimodal NLP](lectures/L10.MultimodalNLP.pdf)
+* [Video](https://drive.google.com/file/d/1Sl4WZv-L-3zq6cYpe62llnX0TALxxLc_/view?usp=sharing)
 
 
 
